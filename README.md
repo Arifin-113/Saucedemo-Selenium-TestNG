@@ -19,10 +19,10 @@ Automated end-to-end testing of the Saucedemo website using Selenium WebDriver a
 
 ⚙️ How to Run Tests
 1. Clone the repository
-git clone https://github.com/Arifin-113/Saucedemo-Selenium-TestNG.git
-cd Saucedemo-Selenium-TestNG
+`git clone https://github.com/Arifin-113/Saucedemo-Selenium-TestNG.git
+cd Saucedemo-Selenium-TestNG`
 2. Run with Maven
-   mvn clean test
+   `mvn clean test`
 3. View the Report
    Open test-output/index.html in your browser.
 
